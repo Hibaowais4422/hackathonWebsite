@@ -95,7 +95,7 @@ export default function ProductsPage() {
   return (
     <div className="bg-[#F5F5F5] min-h-screen">
         <TopBar/>
-            <div className="bg-[#F6F5FF] py-16">
+            <div className="bg-[#F6F5FF] py-16 ">
         <div className="container mx-auto px-4 ">
           <h1 className="text-3xl font-bold text-[#101750] mb-4">Shop List</h1>
           <div className="flex items-center space-x-2 text-sm">
